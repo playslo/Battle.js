@@ -1,0 +1,17 @@
+{
+  "name": "battle.js",
+  "version": "1.0.0",
+  "description": "Battle game with ezLib",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Nathanael SIMON, Makan KONATE",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
